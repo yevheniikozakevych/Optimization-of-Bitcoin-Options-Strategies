@@ -13,7 +13,7 @@ The strategy involves opening option positions **24 hours before expiration** to
 ## Full Research Paper
 
 A full explanation of the methodology and step-by-step reasoning is available in the accompanying research paper (in Spanish):  
-**[🔗 Link to the full paper]***(https://docs.google.com/document/d/1PP9ohSAK4tT4p2iu4XVwMZVc45mxPO3SnQq2qCeC2ro/edit?usp=sharing)*
+[**🔗 Link to the full paper**](https://docs.google.com/document/d/1PP9ohSAK4tT4p2iu4XVwMZVc45mxPO3SnQq2qCeC2ro/edit?usp=sharing)
 
 ## Requirements
 
